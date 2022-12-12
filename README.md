@@ -43,3 +43,6 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:5AACD7,100:FA6588&height=150&section=footer)
 </div>
+
+[포트폴리오.pdf](https://github.com/hyeokinen/hyeokinen/files/10208057/default.pdf)
+
