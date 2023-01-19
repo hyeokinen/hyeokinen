@@ -41,8 +41,15 @@
 ![Hyeokinen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeokinen&show_icons=true&theme=dracula)
 [![Hyeokinen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeokinen&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=dracula)](https://github.com/hyeokinen)   
 
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeokinen&langs_count=10&layout=compact&theme=dark)](https://github.com/hyeokinen/hyeokinen)
+
+ -->
+  
+  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:5AACD7,100:FA6588&height=150&section=footer)
 </div>
+
+
 
 [포트폴리오.pdf](https://github.com/hyeokinen/hyeokinen/files/10208057/default.pdf)
 
