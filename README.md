@@ -1,8 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgmarobiana%2Fhit-counter&count_bg=%23FF9CB1&title_bg=%2341606C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/hyeokinen)
 ![](https://img.shields.io/github/followers/hyeokinen?style=social)
 
-
-
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FA6588,100:5AACD7&height=200&section=header&text=Back-end%20Development%20Instructor&fontSize=40)  
