@@ -10,7 +10,6 @@
 
 ### `💚 Web 💚`  
 
-  
 <img src="https://img.shields.io/badge/Java-89A426?style=for-the-badge&logo=java&logoColor=white" height="25" /> 
 <img src="https://img.shields.io/badge/JavaScript-468010?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25" /> 
 <img src="https://img.shields.io/badge/HTML5-0A6A05?style=for-the-badge&logo=html5&logoColor=white" height="25" />
